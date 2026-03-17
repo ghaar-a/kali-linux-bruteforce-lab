@@ -72,7 +72,5 @@ Payload utilizado:
 Resultado: acesso aos dados da base.
 
 5. Conclusão
-
-Exemplo:
-
+   
 Os testes demonstraram diversas vulnerabilidades no sistema Metasploitable 2, incluindo credenciais fracas, serviços expostos e aplicações web vulneráveis. Essas falhas poderiam permitir acesso não autorizado e comprometimento total do sistema em um ambiente real.
