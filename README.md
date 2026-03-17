@@ -16,6 +16,7 @@ Metasploitable 2	Alvo	192.168.56.3
 Rede utilizada:
 
 Host-only Adapter
+
 3. Reconhecimento
 
 Ferramenta utilizada:
@@ -32,6 +33,7 @@ Porta	Serviço
 139	SMB
 445	SMB
 3306	MySQL
+
 4. Ataques Realizados
 Brute Force FTP
 
